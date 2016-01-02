@@ -3,6 +3,7 @@
 This is an implementation of Conway's Game of Life.
 
 The standard rules (pulled from Wikipedia):
+
     1. Any live cell with less than two live neighbors
        dies.
     2. Any live cell with two or three live neighbors
